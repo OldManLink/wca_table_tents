@@ -2,7 +2,7 @@
 
 Generate printable table tents for finals directly from WCA Live or CSV input.
 
-Designed by WCA Delegates, for for WCA Delegates.
+Designed by WCA Delegates, for WCA Delegates.
 
 Fast, simple, competition-ready.
 
